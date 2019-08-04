@@ -24,5 +24,3 @@ if (process.env.NODE_ENV === process.env.NODE_ENV) {
 
 
 process.env.URLDB = urlDB;
-
-// mongodb+srv://gonza:eIcZIPEKmK3dTITo@cluster0-pudqx.mongodb.net/cafe?retryWrites=true&w=majority
